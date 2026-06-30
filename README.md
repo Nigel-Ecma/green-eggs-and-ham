@@ -9,3 +9,5 @@ Added a blank line to satisfy md-lint
 Bad ones!
 
 ## Green Ham?
+
+Ham with sage, as with Sage Derby?
